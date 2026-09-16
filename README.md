@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="DaBoyzLogoPNG.png" width="180">
+
 # DaBoyzApp
 
 ### Da Boyz — Community Hub
